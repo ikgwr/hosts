@@ -1,5 +1,5 @@
 # 本地服务器hosts文件
 
-192.168.0.100 roamtao.com
-192.168.0.100 gonglve.roamtao.com
-192.168.0.100 api.roamtao.com
+192.168.0.100 test.com
+192.168.0.100 gonglve.test.com
+192.168.0.100 api.test.com
